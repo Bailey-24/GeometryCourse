@@ -2,7 +2,7 @@
 
 > **To get started:** Clone this repository with
 > 
->     git clone --recursive http://github.com/alecjacobson/geometry-processing-parameterization.git
+>     git clone --recursive https://github.com/Bailey-24/GeometryCourse/geometry-processing-parameterization
 >
 
 ## Installation, Layout, and Compilation
