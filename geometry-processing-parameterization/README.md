@@ -1,9 +1,5 @@
 # Geometry Processing – Parameterization
 
-> **To get started:** Clone this repository with
-> 
->     git clone --recursive https://github.com/Bailey-24/GeometryCourse/geometry-processing-parameterization
->
 
 ## Installation, Layout, and Compilation
 
